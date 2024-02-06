@@ -19,12 +19,12 @@ const Header = () => {
         <div className="mt-4">
           <h2 className="font-Pacifico text-2xl leading-6">Tandoori Js.</h2>
           <a
-            href="https://github.com/thekiranmahajan"
+            href="https://github.com/Satya1217"
             target="_blank"
             rel="noopener noreferrer"
           >
             <h6 className="text-xs ml-8 font-RobotoCondenced">
-              by Kiran Mahajan
+              by Satya Sai
             </h6>
           </a>
         </div>
